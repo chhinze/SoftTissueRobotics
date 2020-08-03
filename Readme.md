@@ -31,4 +31,4 @@ This will synchronize all the tutorial sessions. Note, that the individual tutor
 | [`tutorials/openmp-exercise`](https://github.com/maierbn/openmp-exercise/blob/master/README.md) | Introduction and exercises in OpenMP | C++ |
 | [`tutorials/panda_tutorial`](https://github.com/chhinze/panda_tutorial/blob/master/Readme.md) | Introduction in Eigen3 Math and C++-API of Franka Emika Panda robot | C++ |
 | [`tutorials/tutorial_on_DART`](https://github.com/markuswnuk91/tutorial_on_DART/blob/master/README.md)       | Tutorial on Multibody Physics Simulation with [DART](http://dartsim.github.io/) | C++ |
-| [`tutorials/vumat-linelast-example`](https://github.com/harnoorsaini/vumat-linelast-example/blob/master/readme.md) | Introduction in writing a VUMAT with ABAQUS | ABAQUS |
+| [`tutorials/vumat-linelast-example`](https://github.com/harnoorsaini/vumat-linelast-example/blob/master/readme.md) | Introduction in writing a VUMAT with ABAQUS | FORTRAN |
