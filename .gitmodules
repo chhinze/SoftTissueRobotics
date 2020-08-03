@@ -1,0 +1,12 @@
+[submodule "tutorials/openmp-exercise"]
+	path = tutorials/openmp-exercise
+	url = git@github.com:maierbn/openmp-exercise.git
+[submodule "tutorials/tutorial_on_DART"]
+	path = tutorials/tutorial_on_DART
+	url = git@github.com:markuswnuk91/tutorial_on_DART.git
+[submodule "tutorials/panda_tutorial"]
+	path = tutorials/panda_tutorial
+	url = git@github.com:chhinze/panda_tutorial
+[submodule "tutorials/vumat-linelast-example"]
+	path = tutorials/vumat-linelast-example
+	url = git@github.com:harnoorsaini/vumat-linelast-example.git
